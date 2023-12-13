@@ -1,0 +1,1 @@
+Chỉnh prefix mặc định nhất ở trong file events.js nằm trong \core\handlers\events.js

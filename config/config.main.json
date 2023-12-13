@@ -1,0 +1,29 @@
+{
+    "APPSTATE_PATH": "./appstate.json",
+    "APPSTATE_PROTECTION": true,
+    "AUTO_PING_SERVER": true,
+    "ALLOW_INBOX": false,
+    "DATABASE": "JSON",
+    "DMBOT": "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",
+    "DATABASE_JSON_BEAUTIFY": true,
+    "FCA_OPTIONS": {
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": false,
+        "listenEvents": true,
+        "forceLogin": true,
+        "userAgent": "Mozilla/5.0 (Linux; Android 9; SM-G973U Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+    },
+    "LANGUAGE": "vi_VN",
+    "LOG_LEVEL": 1,
+    "MODERATORS": [
+        "100010312456330"
+    ],
+    "ABSOLUTES": [
+        "100010312456330"
+    ],
+    "NAME": "ĐM Bot",
+    "PREFIX": "",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "REFRESH": "43200000"
+}
